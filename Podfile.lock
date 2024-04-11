@@ -1,0 +1,107 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.7.4)
+  - Alamofire (5.9.1)
+  - Cosmos (25.0.0)
+  - CreditCardForm (0.2.0)
+  - FBAEMKit (12.3.2):
+    - FBSDKCoreKit_Basics (= 12.3.2)
+  - FBSDKCoreKit (12.3.2):
+    - FBAEMKit (= 12.3.2)
+    - FBSDKCoreKit_Basics (= 12.3.2)
+  - FBSDKCoreKit_Basics (12.3.2)
+  - FBSDKLoginKit (12.3.2):
+    - FBSDKCoreKit (= 12.3.2)
+  - FSPagerView (0.8.3)
+  - GoogleSignIn (4.4.0):
+    - "GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)"
+    - "GoogleToolboxForMac/NSString+URLArguments (~> 2.1)"
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.3.2):
+    - GoogleToolboxForMac/Defines (= 2.3.2)
+  - GoogleToolboxForMac/Defines (2.3.2)
+  - "GoogleToolboxForMac/NSDictionary+URLArguments (2.3.2)":
+    - GoogleToolboxForMac/DebugUtils (= 2.3.2)
+    - GoogleToolboxForMac/Defines (= 2.3.2)
+    - "GoogleToolboxForMac/NSString+URLArguments (= 2.3.2)"
+  - "GoogleToolboxForMac/NSString+URLArguments (2.3.2)"
+  - GSImageViewerController (1.6.3)
+  - GTMSessionFetcher/Core (1.7.2)
+  - KWVerificationCodeView (0.4.0)
+  - MBRadioCheckboxButton (2.0)
+  - RSKPlaceholderTextView (6.1.0)
+  - SDWebImage (5.19.1):
+    - SDWebImage/Core (= 5.19.1)
+  - SDWebImage/Core (5.19.1)
+  - Stripe (19.4.1)
+  - SVProgressHUD (2.2.5)
+  - VSTwitterTextCounter (0.1.3)
+  - WMSegmentControl (2.3)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire
+  - Cosmos
+  - CreditCardForm
+  - FBSDKLoginKit
+  - FSPagerView
+  - GoogleSignIn (~> 4.0)
+  - GSImageViewerController
+  - KWVerificationCodeView
+  - MBRadioCheckboxButton
+  - RSKPlaceholderTextView
+  - SDWebImage
+  - Stripe
+  - SVProgressHUD
+  - VSTwitterTextCounter
+  - WMSegmentControl
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - Cosmos
+    - CreditCardForm
+    - FBAEMKit
+    - FBSDKCoreKit
+    - FBSDKCoreKit_Basics
+    - FBSDKLoginKit
+    - FSPagerView
+    - GoogleSignIn
+    - GoogleToolboxForMac
+    - GSImageViewerController
+    - GTMSessionFetcher
+    - KWVerificationCodeView
+    - MBRadioCheckboxButton
+    - RSKPlaceholderTextView
+    - SDWebImage
+    - Stripe
+    - SVProgressHUD
+    - VSTwitterTextCounter
+    - WMSegmentControl
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: a380d57270b6b2d321c4add024ba5c466a7f5cfd
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  Cosmos: f1eac42a1a6480b35cf5226d70bd0fadc004b4aa
+  CreditCardForm: bba4aad545236f97f2dc45ea3bed0cb57d5e0e99
+  FBAEMKit: 955ca52eba8219c20f90774e8c6ff8bc7b3192a3
+  FBSDKCoreKit: 678f64eda3f0ff25c189c2ebbfe87b1d96a85a6d
+  FBSDKCoreKit_Basics: 6bee7c1f0932432901781203fa5e587ec5099148
+  FBSDKLoginKit: 56d55e23fe66a6db045826190b0b4dbc0e1ca0a0
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  GoogleSignIn: 7ff245e1a7b26d379099d3243a562f5747e23d39
+  GoogleToolboxForMac: 8bef7c7c5cf7291c687cf5354f39f9db6399ad34
+  GSImageViewerController: 20a257d7e3dd9ee171c2dfea659992eba2761839
+  GTMSessionFetcher: 5595ec75acf5be50814f81e9189490412bad82ba
+  KWVerificationCodeView: 92cca6ad028546d3232fa75cda3a40d00109a1a2
+  MBRadioCheckboxButton: 6e2a2cdc441e292e45b64c4e65eb8fc1fc05eef2
+  RSKPlaceholderTextView: 52f26e643b6f9bbf16f45cd2bbe2181b6dfe090c
+  SDWebImage: 40b0b4053e36c660a764958bff99eed16610acbb
+  Stripe: 5914399ac5878056b985d56b409cb4bb1e7fc7e8
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  VSTwitterTextCounter: 1703eefe7f06951b8aab3110e5779a793d67fc43
+  WMSegmentControl: 15120246d0fdbb7530d7fa03e90c3ec6f4fa85bd
+
+PODFILE CHECKSUM: a79dbea22782fa0b0943f1154bb56bb88a6d02fe
+
+COCOAPODS: 1.14.3
